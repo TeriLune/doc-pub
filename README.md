@@ -2,18 +2,18 @@
 
 ## Opis projektu
 
-To repozytorium zawiera materiały edukacyjne w formacie reStructuredText (`.rst`) dotyczące **bioróżnorodności i funkcjonowania ekosystemów**, przygotowane do publikacji w formie dokumentacji lub raportu przy użyciu **Sphinx**.
+To repozytorium zawiera materiały edukacyjne w formacie reStructuredText (`.rst`) dotyczące **bioróżnorodności i funkcjonowania ekosystemów**, przygotowane do publikacji w formie dokumentacji lub raportu przy użyciu **Sphinx** z motywem **Furo**.
 
-Dokumentacja obejmuje trzy rozdziały, które szczegółowo omawiają znaczenie bioróżnorodności, jej poziomy, usługi ekosystemowe oraz zagrożenia i działania ochronne.
+Dokument obejmuje trzy rozdziały, które szczegółowo omawiają znaczenie bioróżnorodności, jej poziomy, usługi ekosystemowe oraz zagrożenia i działania ochronne.
 
 ---
 
-## Zawartość repozytorium
+## Zawartość dokumentu
 
 - `rozdzial1/index.rst` – Znaczenie bioróżnorodności dla funkcjonowania ekosystemów oraz różnorodność biologiczna i jej poziomy.
 - `rozdzial2/index.rst` – Znaczenie bioróżnorodności dla stabilności ekosystemów i usługi ekosystemowe wynikające z bioróżnorodności.
 - `rozdzial3/index.rst` – Zagrożenia dla bioróżnorodności, ochrona i zachowanie różnorodności biologicznej wraz z tabelą działań ochronnych oraz podsumowaniem.
-- `zdjecie.png` – Przykładowe ilustracje wykorzystywane w dokumentacji (obrazek do rozdziału 3).
+- `rozdzial2/zdjecie.png` – Przykładowa ilustracja odnośnie bioróżnorodności.
 - `conf.py` – Plik konfiguracyjny Sphinx.
 
 ---
