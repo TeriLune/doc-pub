@@ -34,3 +34,8 @@ Można go zainstalować w środowisku Python za pomocą:
 ```bash
 pip install furo
 ```
+Po czym w celu zbudowaniu dokumentu HTML należy wywołać komendę:
+
+```bash
+make html
+```
