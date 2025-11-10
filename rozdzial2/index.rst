@@ -1,5 +1,5 @@
-Rozdzial 2
-==========
+Funkcjonowanie ekosystemów i ich trwałość
+==========================================
 
 Znaczenie bioróżnorodności dla stabilności ekosystemów
 ------------------------------------------------------
