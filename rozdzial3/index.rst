@@ -1,5 +1,5 @@
-Rozdzial 3
-==========
+Zagrożenia i wyzwania dla przyrody
+====================================
 
 Zagrożenia dla bioróżnorodności
 -------------------------------
