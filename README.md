@@ -28,7 +28,7 @@ Dokumenty zapisane są w formacie **reStructuredText (`.rst`)**, który jest nat
 - tabele ilustrujące działania ochronne,
 - wstawiony obraz z opcją wyśrodkowania.
 
-**Uwaga:** Do poprawnego zbudowania dokumentacji wymagana jest instalacja motywu **Furo**.
+**Uwaga:** Do poprawnego zbudowania pliku HTML wymagana jest instalacja motywu **Furo**.
 Można go zainstalować w środowisku Python za pomocą:
 
 ```bash
