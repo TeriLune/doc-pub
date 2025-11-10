@@ -2,7 +2,7 @@
 
 ## Opis projektu
 
-To repozytorium zawiera materiały edukacyjne w formacie reStructuredText (`.rst`) dotyczące **bioróżnorodności i funkcjonowania ekosystemów**, przygotowane do publikacji w formie dokumentacji lub raportu przy użyciu **Sphinx** z motywem **Furo**.
+Ten dokument zawiera materiały edukacyjne w formacie reStructuredText (`.rst`) dotyczące **bioróżnorodności i funkcjonowania ekosystemów**, przygotowane do publikacji w formie pliku pdf lub strony HTML przy użyciu **Sphinx** z motywem **Furo**.
 
 Dokument obejmuje trzy rozdziały, które szczegółowo omawiają znaczenie bioróżnorodności, jej poziomy, usługi ekosystemowe oraz zagrożenia i działania ochronne.
 
@@ -26,5 +26,11 @@ Dokumenty zapisane są w formacie **reStructuredText (`.rst`)**, który jest nat
 - akapity opisowe,
 - liste numerowaną,
 - tabele ilustrujące działania ochronne,
-- wstawione obrazy z opcją wyśrodkowania.
+- wstawiony obraz z opcją wyśrodkowania.
 
+**Uwaga:** Do poprawnego zbudowania dokumentacji wymagana jest instalacja motywu **Furo**.
+Można go zainstalować w środowisku Python za pomocą:
+
+```bash
+pip install furo
+```
