@@ -1,5 +1,5 @@
-Rozdzial 1
-==========
+Różnorodność biologiczna a funkcjonowanie przyrody
+===================================================
 
 Znaczenie bioróżnorodności dla funkcjonowania ekosystemów
 ---------------------------------------------------------
